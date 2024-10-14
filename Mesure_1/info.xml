@@ -1,0 +1,234 @@
+<Object3D type="IFM" signature="0">
+  <generalData>
+    <name>Mur 6_sing</name>
+    <specimenName></specimenName>
+    <creatorName>Administrator</creatorName>
+    <creationDateTime>2021-10-18T15:32:41</creationDateTime>
+    <deviceName>IF-Sensor R25 Measurement Device 052016001120; LaboratoryMeasurementModule 6.6.9; MeasureSuite 5.3.5</deviceName>
+    <description>Démarrer traitement: lundi 18 octobre 2021 15:32:34&#xd;
+Fin du traitement: lundi 18 octobre 2021 15:32:41&#xd;
+Durée: 6.393 s&#xd;
+Identité produit: A080219174&#xd;
+Numéro de série de l'IFM: 052016001120&#xd;
+&#xd;
+Valeurs spécifiques :Limite basse de la gamme en z: 6.450mm&#xd;
+Limite haute de la gamme en z: 7.274mm&#xd;
+Résolution verticale estimée: 0.325µm&#xd;
+Résolution latérale estimés: 8.388µm&#xd;
+&#xd;
+Paramètres de la mesure :Temps d'exposition: 4.050 ms&#xd;
+Contraste: 0.61&#xd;
+Grossissement: 5.02275x&#xd;
+Position en z avant la mesure: 7.293mm&#xd;
+Saturation: 1&#xd;
+Gain: 1&#xd;
+Limite basse de l'histogramme: 0 / 255&#xd;
+Limite haute de l'histogramme: 255 / 255&#xd;
+XSmartFlash: Non&#xd;
+Utiliser l'Autofocus: Non&#xd;
+Adapte la Distance d'Echantillonnage à la Résolution Latérale: Non&#xd;
+Polariseur: Activé&#xd;
+&#xd;
+Paramètres de la source lumineuse :Nom: Alicona Sensor R25 Light Controller&#xd;
+Lumière coaxiale disponible: Non&#xd;
+Eclairage annulaire disponible: Oui&#xd;
+Illumination de l'éclairage annulaire: 1&#xd;
+&#xd;
+Etat de réglage du sytème: ADJUSTED_AND_CALIBRATED&#xd;
+&#xd;
+Paramètres de mesures avancés:Facteur XSmartFlash: 5&#xd;
+Acquisition de données à haute vitesse: Oui&#xd;
+Estimation automatique de la gamme: Non&#xd;
+Filtrer les valeurs abérrantes: 0.8&#xd;
+Ajuster automatiquement la répétabilité: Non&#xd;
+Mode réplique: Non&#xd;
+&#xd;
+Information support :MAMB: 2400&#xd;
+AV: 1&#xd;
+AAV: Oui&#xd;
+SIS: Non&#xd;
+HAC: Oui&#xd;
+CM: Oui&#xd;
+RE: Non&#xd;
+RM: Non&#xd;
+VDT: 0.5&#xd;
+FCM: Oui&#xd;
+&#xd;
+Information sur l'environnement du système capteur :Mesure pas OK !&#xd;
+Les capteurs ont dépassé les limites : Vibration x&#xd;
+&#xd;
+Capteur Temperature ringlight driver board: OK&#xd;
+&#xd;
+Absolu : 43.156°C&#xd;
+Limites dépassées : non&#xd;
+Début : 19.467°C&#xd;
+Min : 19.467°C&#xd;
+Max : 43.156°C&#xd;
+Moyenne : 37.759°C&#xd;
+Ecart type : 5.331°C&#xd;
+&#xd;
+Gradient : 4.197°C/h&#xd;
+Limites dépassées : non&#xd;
+Min : 2.731°C/h&#xd;
+Max : 131.487°C/h&#xd;
+Moyenne : 22.687°C/h&#xd;
+Ecart type : 26.478°C/h&#xd;
+Capteur Temperature ringlight: OK&#xd;
+&#xd;
+Absolu : 45.778°C&#xd;
+Limites dépassées : non&#xd;
+Début : 21.022°C&#xd;
+Min : 21.022°C&#xd;
+Max : 45.778°C&#xd;
+Moyenne : 40.212°C&#xd;
+Ecart type : 5.484°C&#xd;
+&#xd;
+Gradient : 4.310°C/h&#xd;
+Limites dépassées : non&#xd;
+Min : 2.462°C/h&#xd;
+Max : 130.938°C/h&#xd;
+Moyenne : 23.787°C/h&#xd;
+Ecart type : 28.469°C/h&#xd;
+Capteur Temperature instrument mainboard: OK&#xd;
+&#xd;
+Absolu : 35.822°C&#xd;
+Limites dépassées : non&#xd;
+Début : 23.822°C&#xd;
+Min : -12.222°C&#xd;
+Max : 35.822°C&#xd;
+Moyenne : 32.997°C&#xd;
+Ecart type : 2.670°C&#xd;
+&#xd;
+Gradient : 2.022°C/h&#xd;
+Limites dépassées : non&#xd;
+Min : 2.022°C/h&#xd;
+Max : 100.991°C/h&#xd;
+Moyenne : 11.674°C/h&#xd;
+Ecart type : 14.449°C/h&#xd;
+Capteur Temperature optical tube: OK&#xd;
+&#xd;
+Absolu : 31.867°C&#xd;
+Limites dépassées : non&#xd;
+Début : 18.622°C&#xd;
+Min : -12.222°C&#xd;
+Max : 31.867°C&#xd;
+Moyenne : 26.686°C&#xd;
+Ecart type : 4.121°C&#xd;
+&#xd;
+Gradient : 3.996°C/h&#xd;
+Limites dépassées : non&#xd;
+Min : 0.000°C/h&#xd;
+Max : 15.349°C/h&#xd;
+Moyenne : 9.409°C/h&#xd;
+Ecart type : 3.767°C/h&#xd;
+Capteur Temperature sensor heatsink: OK&#xd;
+&#xd;
+Absolu : 35.333°C&#xd;
+Limites dépassées : non&#xd;
+Début : 18.622°C&#xd;
+Min : -12.222°C&#xd;
+Max : 35.467°C&#xd;
+Moyenne : 29.220°C&#xd;
+Ecart type : 4.865°C&#xd;
+&#xd;
+Gradient : 4.729°C/h&#xd;
+Limites dépassées : non&#xd;
+Min : 0.000°C/h&#xd;
+Max : 35.347°C/h&#xd;
+Moyenne : 12.814°C/h&#xd;
+Ecart type : 5.467°C/h&#xd;
+Capteur Vibration x: PAS OK&#xd;
+&#xd;
+Absolu : 0.027g&#xd;
+Limites dépassées : oui&#xd;
+Début : 300.137e-6g&#xd;
+Min : 300.137e-6g&#xd;
+Max : 0.037g&#xd;
+Moyenne : 0.022g&#xd;
+Ecart type : 0.007g&#xd;
+&#xd;
+Gradient : 0.002g/h&#xd;
+Limites dépassées : non&#xd;
+Min : -0.698g/h&#xd;
+Max : 1.428g/h&#xd;
+Moyenne : 0.017g/h&#xd;
+Ecart type : 0.042g/h&#xd;
+Capteur Vibration y: OK&#xd;
+&#xd;
+Absolu : 0.006g&#xd;
+Limites dépassées : non&#xd;
+Début : 0.014g&#xd;
+Min : 716.682e-6g&#xd;
+Max : 0.056g&#xd;
+Moyenne : 0.006g&#xd;
+Ecart type : 0.005g&#xd;
+&#xd;
+Gradient : 0.008g/h&#xd;
+Limites dépassées : non&#xd;
+Min : -4.000g/h&#xd;
+Max : 0.019g/h&#xd;
+Moyenne : -235.934e-6g/h&#xd;
+Ecart type : 0.101g/h&#xd;
+Capteur Vibration z: OK&#xd;
+&#xd;
+Absolu : 0.001g&#xd;
+Limites dépassées : non&#xd;
+Début : 0.006g&#xd;
+Min : 0.001g&#xd;
+Max : 0.022g&#xd;
+Moyenne : 0.004g&#xd;
+Ecart type : 0.003g&#xd;
+&#xd;
+Gradient : 0.002g/h&#xd;
+Limites dépassées : non&#xd;
+Min : -0.798g/h&#xd;
+Max : 0.041g/h&#xd;
+Moyenne : 934.636e-6g/h&#xd;
+Ecart type : 0.023g/h&#xd;
+</description>
+    <softwareVersion>
+      <major>4</major>
+      <minor>0</minor>
+    </softwareVersion>
+  </generalData>
+  <generalCalibrationData>
+    <pixelsize>
+      <vector size="2">0.00000199094008884966 0.00000199094008884966 </vector>
+    </pixelsize>
+    <pixelsizeTolerance>
+      <vector size="3">0.00000009954700444248 0.00000009954700444248 0.00000000000000000000 </vector>
+    </pixelsizeTolerance>
+    <resolution>
+      <vector size="2">1840.000000 1840.000000 </vector>
+    </resolution>
+    <baseline>
+      <vector size="2">0.000000 0.000000 </vector>
+    </baseline>
+    <specimenMatrix>
+      <matrix cols="4" rows="4">
+        <vector size="4">1.000000000000 0.000000000000 0.000000000000 0.000000000000 </vector>
+        <vector size="4">0.000000000000 1.000000000000 0.000000000000 0.000000000000 </vector>
+        <vector size="4">0.000000000000 0.000000000000 1.000000000000 0.000000000000 </vector>
+        <vector size="4">0.000000000000 0.000000000000 0.000000000000 1.000000000000 </vector>
+      </matrix>
+    </specimenMatrix>
+    <worldMatrix>
+      <matrix cols="4" rows="4">
+        <vector size="4">1.000000000000 0.000000000000 0.000000000000 -0.001831664882 </vector>
+        <vector size="4">0.000000000000 1.000000000000 0.000000000000 -0.001831664882 </vector>
+        <vector size="4">0.000000000000 0.000000000000 1.000000000000 0.000000000000 </vector>
+        <vector size="4">0.000000000000 0.000000000000 0.000000000000 1.000000000000 </vector>
+      </matrix>
+    </worldMatrix>
+    <depthQuality minVal="0.00000000000000000000" filterVal="0.00000197222343385677" shift="0.00000000765763348575"/>
+  </generalCalibrationData>
+  <real3DData>
+    <axis z1="0.00000000000000000000" y1="0.00000000000000000000" z2="0.00000000000000000000" x1="0.00000000000000000000" y2="0.00000000000000000000" x2="0.00000000000000000000"/>
+  </real3DData>
+  <ifmData>
+    <magnification>5.02275</magnification>
+    <objectiveName>5x AX</objectiveName>
+    <tubusName>IF-Sensor R25 Measurement Device</tubusName>
+    <lightIntensity>1</lightIntensity>
+  </ifmData>
+</Object3D>
